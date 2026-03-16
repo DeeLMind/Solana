@@ -1,0 +1,8 @@
+[package]
+name = "hellowwold"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+solana-client = "3.1.4"
+solana-commitment-config = "3.1.0"
