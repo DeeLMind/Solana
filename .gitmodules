@@ -1,0 +1,3 @@
+[submodule "program-examples"]
+	path = program-examples
+	url = https://github.com/solana-developers/program-examples
