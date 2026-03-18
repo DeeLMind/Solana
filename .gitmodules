@@ -4,3 +4,9 @@
 [submodule "Solana-Auditors-Bootcamp"]
 	path = Example/Solana-Auditors-Bootcamp
 	url = git@github.com:Ackee-Blockchain/Solana-Auditors-Bootcamp.git
+[submodule "Safe/solsec"]
+	path = Safe/solsec
+	url = https://github.com/sannykim/solsec
+[submodule "Safe/awesome-solana-security"]
+	path = Safe/awesome-solana-security
+	url = https://github.com/0xMacro/awesome-solana-security
