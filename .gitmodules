@@ -1,3 +1,6 @@
 [submodule "program-examples"]
-	path = program-examples
+	path = Example/program-examples
 	url = https://github.com/solana-developers/program-examples
+[submodule "Solana-Auditors-Bootcamp"]
+	path = Example/Solana-Auditors-Bootcamp
+	url = git@github.com:Ackee-Blockchain/Solana-Auditors-Bootcamp.git
