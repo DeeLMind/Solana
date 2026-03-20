@@ -17,6 +17,7 @@
 
 * https://github.com/sannykim/solsec
 * https://github.com/0xMacro/awesome-solana-security
+* https://github.com/solana-foundation/solana-dev-skill/blob/main/skill/references/security.md
 
 ## DAPP
 
