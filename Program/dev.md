@@ -34,6 +34,7 @@
 * cargo build-sbf --manifest-path=./program/Cargo.toml --sbf-out-dir=./program/target/
 * cargo test-sbf
 * solana program show Program_ID
+* solana program dump Program_ID
 * solana program deploy taget.so
 * solana program close Program_ID
 
