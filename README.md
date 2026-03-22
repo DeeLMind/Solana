@@ -12,6 +12,7 @@
 * https://www.solana-program.com/
 * https://examples.anchor-lang.com/
 * https://github.com/solana-developers/program-examples
+* ./Docs/README.md
 
 ## 安全
 
