@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "monitor:security": "node security-monitor/index.js",
+    "monitor:jito-searchers": "node jito/monitor_jito_searchers.js"
+  },
   "dependencies": {
     "@solana/web3.js": "^1.98.4"
   }
